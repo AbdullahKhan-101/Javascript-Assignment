@@ -116,3 +116,72 @@
 //  for(var i = 0; i <= 10; i ++ ){
 //  console.log(i)
 //  }
+
+// ch # 21-25
+//
+//  1  var firstName = prompt("Enter your first name")
+//     var lastName = prompt("Enter your last name")
+//     alert(firstName + lastName)
+//
+//  2  var phone = prompt("Enter your favourite phone")
+//     var length = phone.length;
+//     alert("My favourite phone is " + phone + " and length of string is " + length)
+//
+//  3  let text = "Pakistani";
+//     let result = text.indexOf("n");
+//     alert(result);
+//
+//  4 let text = "Hello World";
+//    let result = text.lastIndexOf("l");
+//    alert(result);
+//
+//  ch # 26-30
+//
+// 1 var number = +prompt("Enter any number");
+//   var round = Math.round(number);
+//   var ceil = Math.ceil(number);
+//   var floor = Math.floor(number);
+//   alert(number);
+//   alert(round);
+//   alert(ceil);
+//   alert(floor);
+//
+// 2 var negitivenumber = +prompt("Enter any number");
+//   var round = Math.round(negitivenumber);
+//   var ceil = Math.ceil(negitivenumber);
+//   var floor = Math.floor(negitivenumber);
+//   alert(negitivenumber);
+//   alert(round);
+//   alert(ceil);
+//   alert(floor);
+//
+// 3 var num = -2.5;
+//   alert(Math.abs(num));
+//
+//
+//  ch # 31-34
+//
+// 1  var date = new Date();
+//    alert(date)
+//
+// 2  var month = new Date().getMonth();
+//    alert(month)
+//
+// ch # 35-38
+//
+// 1  function date(){
+//    new Date();
+//   }
+//   alert(date())
+//
+//
+// 2 function add(a,b){
+//   return a + b;
+//   }
+//   alert(add(20,30))
+//
+//
+//
+//
+//
+//
